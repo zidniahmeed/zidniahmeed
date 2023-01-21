@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h5>I'am zidniahmeed</h5>
+<h5>i'm zidniahmeed</h5>
 
 Here are some ideas to get you started:
 
