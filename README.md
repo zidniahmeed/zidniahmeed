@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-
-**zidniahmeed/zidniahmeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h5>I'am zidniahmeed</h5>
 
 Here are some ideas to get you started:
 
