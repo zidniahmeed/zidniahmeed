@@ -9,9 +9,8 @@
 
 - 🌱 I’m currently learning **Laravel, Reactjs,**
 
-- 👨‍💻 All of my projects are available at [https://docs.google.com/presentation/d/1sX4K8bznFtBVZ8JDev5bJAaC28SLNBx5y4pkzszbdeY/edit?usp=sharing](https://docs.google.com/presentation/d/1sX4K8bznFtBVZ8JDev5bJAaC28SLNBx5y4pkzszbdeY/edit?usp=sharing)
 
-- 📝 I regularly write articles on [https://www.barajacoding.or.id/](https://www.barajacoding.or.id/)
+- 📝 I regularly write articles on [barajacoding](https://www.barajacoding.or.id/)
 
 - 💬 Ask me about **Laravel, React**
 
